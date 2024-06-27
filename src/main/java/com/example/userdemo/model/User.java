@@ -1,4 +1,4 @@
-package com.example.userdemo.Model;
+package com.example.userdemo.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

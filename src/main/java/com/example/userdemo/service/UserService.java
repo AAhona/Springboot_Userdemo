@@ -1,8 +1,8 @@
-package com.example.userdemo.Service;
+package com.example.userdemo.service;
 
-import com.example.userdemo.Exception.UserNotFoundException;
-import com.example.userdemo.Model.User;
-import com.example.userdemo.Repository.UserRepository;
+import com.example.userdemo.exception.UserNotFoundException;
+import com.example.userdemo.model.User;
+import com.example.userdemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.util.ReflectionUtils;
 import org.springframework.stereotype.Service;
